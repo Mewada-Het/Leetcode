@@ -7,6 +7,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
+| [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
