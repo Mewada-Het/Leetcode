@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Mewada-Het/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mewada-Het/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mewada-Het/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mewada-Het/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mewada-Het/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -24,6 +25,7 @@
 | [0011-container-with-most-water](https://github.com/Mewada-Het/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mewada-Het/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -43,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
