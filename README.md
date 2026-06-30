@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -33,12 +34,14 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Mewada-Het/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mewada-Het/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -67,12 +71,14 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mewada-Het/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mewada-Het/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mewada-Het/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mewada-Het/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
