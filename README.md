@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/Mewada-Het/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mewada-Het/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
