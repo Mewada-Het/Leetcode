@@ -39,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/Mewada-Het/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Mewada-Het/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mewada-Het/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
