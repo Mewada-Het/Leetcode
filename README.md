@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mewada-Het/Leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/Mewada-Het/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
