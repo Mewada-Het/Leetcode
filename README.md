@@ -23,6 +23,7 @@
 | [0228-summary-ranges](https://github.com/Mewada-Het/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mewada-Het/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Mewada-Het/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -37,6 +38,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mewada-Het/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mewada-Het/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Mewada-Het/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -46,6 +48,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mewada-Het/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mewada-Het/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -56,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +72,7 @@
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
