@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mewada-Het/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Mewada-Het/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Mewada-Het/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
