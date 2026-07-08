@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mewada-Het/Leetcode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Mewada-Het/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mewada-Het/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +86,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mewada-Het/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Mewada-Het/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
