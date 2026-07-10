@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mewada-Het/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mewada-Het/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -58,6 +59,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mewada-Het/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
