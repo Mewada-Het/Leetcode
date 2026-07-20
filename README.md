@@ -30,6 +30,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mewada-Het/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
+| [0605-can-place-flowers](https://github.com/Mewada-Het/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mewada-Het/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Mewada-Het/Leetcode/tree/master/0605-can-place-flowers) |
 ## String
 |  |
 | ------- |
