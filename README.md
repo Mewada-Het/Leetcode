@@ -30,6 +30,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mewada-Het/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Mewada-Het/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mewada-Het/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@
 | [0278-first-bad-version](https://github.com/Mewada-Het/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mewada-Het/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
