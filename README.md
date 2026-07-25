@@ -97,6 +97,7 @@
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mewada-Het/Leetcode/tree/master/0414-third-maximum-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0069-sqrtx](https://github.com/Mewada-Het/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
