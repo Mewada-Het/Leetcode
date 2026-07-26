@@ -37,6 +37,7 @@
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Mewada-Het/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/Mewada-Het/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/Mewada-Het/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mewada-Het/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mewada-Het/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
@@ -187,4 +190,24 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
