@@ -32,6 +32,7 @@
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Mewada-Het/Leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mewada-Het/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mewada-Het/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
@@ -99,6 +100,7 @@
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mewada-Het/Leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mewada-Het/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -133,6 +135,7 @@
 | [0069-sqrtx](https://github.com/Mewada-Het/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mewada-Het/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
