@@ -38,6 +38,7 @@
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Mewada-Het/Leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mewada-Het/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/Mewada-Het/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -70,6 +71,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Mewada-Het/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mewada-Het/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
