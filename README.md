@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mewada-Het/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Mewada-Het/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mewada-Het/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mewada-Het/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mewada-Het/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -108,6 +109,7 @@
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mewada-Het/Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Mewada-Het/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mewada-Het/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mewada-Het/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Mewada-Het/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mewada-Het/Leetcode/tree/master/0605-can-place-flowers) |
 ## String
 |  |
@@ -221,5 +224,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Mewada-Het/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
