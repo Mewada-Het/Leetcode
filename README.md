@@ -91,6 +91,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mewada-Het/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Mewada-Het/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mewada-Het/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Mewada-Het/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
@@ -171,6 +173,7 @@
 | [0125-valid-palindrome](https://github.com/Mewada-Het/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Mewada-Het/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Mewada-Het/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
