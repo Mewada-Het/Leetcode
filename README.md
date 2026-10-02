@@ -64,6 +64,7 @@
 | [0344-reverse-string](https://github.com/Mewada-Het/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Mewada-Het/Leetcode/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/Mewada-Het/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Mewada-Het/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -140,6 +141,7 @@
 | [0053-maximum-subarray](https://github.com/Mewada-Het/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mewada-Het/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mewada-Het/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Mewada-Het/Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0383-ransom-note](https://github.com/Mewada-Het/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mewada-Het/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Mewada-Het/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Mewada-Het/Leetcode/tree/master/0520-detect-capital) |
