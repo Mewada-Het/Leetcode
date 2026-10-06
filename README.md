@@ -163,6 +163,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mewada-Het/Leetcode/tree/master/0050-powx-n) |
 ## Greedy
 |  |
@@ -206,6 +207,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 ## Design
 |  |
