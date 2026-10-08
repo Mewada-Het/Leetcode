@@ -208,6 +208,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mewada-Het/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 ## Design
 |  |
