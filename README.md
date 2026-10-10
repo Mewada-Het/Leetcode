@@ -62,6 +62,7 @@
 | [0141-linked-list-cycle](https://github.com/Mewada-Het/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mewada-Het/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mewada-Het/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -171,6 +172,7 @@
 | [0050-powx-n](https://github.com/Mewada-Het/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Mewada-Het/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mewada-Het/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 ## Design
 |  |
@@ -260,6 +263,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mewada-Het/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
