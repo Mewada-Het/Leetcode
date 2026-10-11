@@ -42,6 +42,7 @@
 | [0697-degree-of-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Mewada-Het/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mewada-Het/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -107,6 +108,7 @@
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,16 +227,19 @@
 | [0206-reverse-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
