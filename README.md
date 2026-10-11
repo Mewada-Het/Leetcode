@@ -50,6 +50,7 @@
 | [1089-duplicate-zeros](https://github.com/Mewada-Het/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/Mewada-Het/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0697-degree-of-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -248,10 +251,12 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -282,4 +287,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mewada-Het/Leetcode/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
