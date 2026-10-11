@@ -165,6 +165,7 @@
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mewada-Het/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -225,6 +226,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
