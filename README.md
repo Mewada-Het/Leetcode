@@ -1,5 +1,7 @@
 "# Leetcode" 
 
+> 💡 **Pattern Recognition & Mental Triggers Cheatsheet**: [Array Patterns Guide (Blind Intuition)](ARRAY_PATTERNS.md)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
