@@ -16,6 +16,7 @@
 | [0031-next-permutation](https://github.com/Mewada-Het/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mewada-Het/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mewada-Het/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Mewada-Het/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mewada-Het/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@
 | [0697-degree-of-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Mewada-Het/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Mewada-Het/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mewada-Het/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mewada-Het/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -51,6 +53,7 @@
 | [1089-duplicate-zeros](https://github.com/Mewada-Het/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/Mewada-Het/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mewada-Het/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,11 +64,16 @@
 | [0031-next-permutation](https://github.com/Mewada-Het/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mewada-Het/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Mewada-Het/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mewada-Het/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mewada-Het/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mewada-Het/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mewada-Het/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Mewada-Het/Leetcode/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Mewada-Het/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Mewada-Het/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -88,6 +96,9 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mewada-Het/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Mewada-Het/Leetcode/tree/master/0036-valid-sudoku) |
+| [0141-linked-list-cycle](https://github.com/Mewada-Het/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mewada-Het/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mewada-Het/Leetcode/tree/master/0217-contains-duplicate) |
@@ -102,6 +113,8 @@
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +155,7 @@
 | [0053-maximum-subarray](https://github.com/Mewada-Het/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mewada-Het/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mewada-Het/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Mewada-Het/Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,11 +173,16 @@
 | [0268-missing-number](https://github.com/Mewada-Het/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mewada-Het/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mewada-Het/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mewada-Het/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Mewada-Het/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +202,7 @@
 | [0383-ransom-note](https://github.com/Mewada-Het/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mewada-Het/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mewada-Het/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Mewada-Het/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Mewada-Het/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Mewada-Het/Leetcode/tree/master/0520-detect-capital) |
@@ -205,15 +225,28 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mewada-Het/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Mewada-Het/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mewada-Het/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Mewada-Het/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Mewada-Het/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Mewada-Het/Leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -222,10 +255,12 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0415-add-strings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Mewada-Het/Leetcode/tree/master/0912-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -246,9 +281,26 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mewada-Het/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mewada-Het/Leetcode/tree/master/0496-next-greater-element-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mewada-Het/Leetcode/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mewada-Het/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Mewada-Het/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
