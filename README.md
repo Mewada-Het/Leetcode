@@ -18,6 +18,7 @@
 | [0035-search-insert-position](https://github.com/Mewada-Het/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Mewada-Het/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Mewada-Het/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mewada-Het/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mewada-Het/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mewada-Het/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mewada-Het/Leetcode/tree/master/0118-pascals-triangle) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mewada-Het/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mewada-Het/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Mewada-Het/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mewada-Het/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Mewada-Het/Leetcode/tree/master/0392-is-subsequence) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mewada-Het/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mewada-Het/Leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Mewada-Het/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mewada-Het/Leetcode/tree/master/0605-can-place-flowers) |
 ## String
