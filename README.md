@@ -207,6 +207,7 @@
 | [0012-integer-to-roman](https://github.com/Mewada-Het/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mewada-Het/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mewada-Het/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Mewada-Het/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mewada-Het/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Mewada-Het/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Mewada-Het/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -296,6 +297,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mewada-Het/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mewada-Het/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mewada-Het/Leetcode/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mewada-Het/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
