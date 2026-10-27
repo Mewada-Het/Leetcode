@@ -298,6 +298,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mewada-Het/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mewada-Het/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mewada-Het/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mewada-Het/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -328,4 +329,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mewada-Het/Leetcode/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mewada-Het/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mewada-Het/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mewada-Het/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
